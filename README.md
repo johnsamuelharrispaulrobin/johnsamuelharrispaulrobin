@@ -69,6 +69,10 @@ Ships as a single deployable HTML file.
 - Preparing for Data Engineering technical interviews in the German market
 - Improving German language proficiency (A2 → targeting B1)
 
+- ## Contribution Snake
+
+![Snake Dark](https://raw.githubusercontent.com/johnsamuelharrispaulrobin/johnsamuelharrispaulrobin/output/github-snake-dark.svg)
+
 ---
 
 ## A Bit About Me
