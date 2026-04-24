@@ -72,11 +72,6 @@ Ships as a single deployable HTML file.
 ## Contribution Snake
 
 ![Snake Dark](https://raw.githubusercontent.com/johnsamuelharrispaulrobin/johnsamuelharrispaulrobin/output/github-snake-dark.svg)
-
----
-Stats
-
-
 ---
 
 ## A Bit About Me
@@ -97,7 +92,7 @@ Stats
 ---
 ## Coding Activity
 
-[![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USERNAME.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+[![WakaTime](https://wakatime.com/badge/user/johnsamuelharris.svg)](https://wakatime.com/@johnsamuelharris)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
