@@ -67,7 +67,7 @@ Ships as a single deployable HTML file.
 - Deepening dbt skills — incremental strategies, snapshot patterns, exposure docs
 - Closing gaps in streaming architecture and Kafka-based pipeline design
 - Preparing for Data Engineering technical interviews in the German market
-- Improving German language proficiency (A2 → targeting B1)
+- Improving German language proficiency (A1 → targeting B1)
 
 ## Contribution Snake
 
@@ -91,6 +91,6 @@ Ships as a single deployable HTML file.
 
 ---
 
-*Based in India · Open to relocate to Germany · Available in two months or less from being selected*
+*Based in India · Open to relocate to Germany · Available from June 2025*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
