@@ -74,6 +74,10 @@ Ships as a single deployable HTML file.
 ![Snake Dark](https://raw.githubusercontent.com/johnsamuelharrispaulrobin/johnsamuelharrispaulrobin/output/github-snake-dark.svg)
 
 ---
+Stats
+
+
+---
 
 ## A Bit About Me
 
@@ -83,12 +87,25 @@ Ships as a single deployable HTML file.
 - 🇩🇪 Learning German — actively, not passively
 
 ---
+## GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=johnsamuelharrispaulrobin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=johnsamuelharrispaulrobin&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsamuelharrispaulrobin&layout=compact&theme=tokyonight&hide_border=true&hide=html,jupyter%20notebook&langs_count=6)
+---
+## Coding Activity
+
+[![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USERNAME.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnsamuelharris)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:johnsamuelharrispaulrobin@gmail.com)
-
 ---
 
 *Based in India · Open to relocate to Germany · Available from June 2025*
